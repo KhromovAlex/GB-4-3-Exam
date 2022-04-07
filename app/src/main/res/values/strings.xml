@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GB-4-3-Exam</string>
+    <string name="home">Home</string>
+    <string name="classes">Classes</string>
+    <string name="are_you_ready_for_exam">Are you ready for exam?</string>
+    <string name="date_format_exam">%1$s days : %2$s h : %3$s min : %4$s s</string>
+    <string name="Home_Fragment">Home Fragment</string>
+    <string name="Timetable_Fragment">Timetable Fragment</string>
+</resources>
